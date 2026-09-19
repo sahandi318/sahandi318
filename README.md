@@ -74,16 +74,11 @@ alt="Kaggle" height="30" width="40"/>
 
 ---
 
-## 📊 GitHub Statistics
+<h2>📊 GitHub Statistics</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahandi318&layout=compact&theme=github_dark" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sahandi318&show_icons=true&theme=github_dark" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=sahandi318&theme=github-dark-blue" height="170"/>
+  <img
+    src="https://streak-stats.demolab.com/?user=sahandi318&theme=github-dark-blue"
+    alt="Sahandi's GitHub Streak"
+  />
 </p>
