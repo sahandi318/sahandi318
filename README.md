@@ -50,7 +50,7 @@ Interested in Embedded Systems, IoT, Electronics, Software Development and Intel
 
 ## 📚 Currently Learning
 
-- C++ and Competitive Programming
+- C and Competitive Programming
 - Embedded Systems Development
 - AI / Machine Learning
 - Cybersecurity
