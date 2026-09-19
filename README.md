@@ -20,42 +20,6 @@ Interested in Embedded Systems, IoT, Electronics, Software Development and Intel
 - 🌱 Continuously improving my engineering and software development skills
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/sahandilakshani/)
 
----
-
-## 🚀 Featured Projects
-
-### 🔋 Smart Battery Monitoring System
-ESP32-based battery monitoring and protection system integrating voltage, current and temperature sensing, relay control, Wi-Fi communication and IoT monitoring.
-
-**Technologies:** ESP32, C++, INA219, DS18B20, I2C, Wi-Fi, IoT
-
----
-
-### 🧬 Forensic Medicine Department Management System
-
-Full-stack database management system developed as a four-member team project for the CO2050 Database Systems course.
-
-The system includes role-based dashboards, case management, forensic workflows, search, report generation and database integration.
-
-**My Role:** Web / Application Developer – UI / Front-End  
-**Individual Contribution:** 25%
-
-**Technologies:** React, Node.js, Express.js, MySQL, JavaScript
-
-🔗 [View Project Repository](https://github.com/sahandi318/forensic-medicine-department-management-system)
-
----
-
-### 🏨 TourismHub LK – Hotel Management System
-
-Currently contributing to a web-based hotel management system as part of an academic software engineering project.
-
-**Technologies:** Web Development, Database Systems, Full-Stack Development
-
-🔗 [View Project Repository](https://github.com/cepdnaclk/e23-co2060-Hotel-Management-System)
-
----
-
 ## 🛠️ Technical Skills
 
 ### Embedded Systems & Hardware
