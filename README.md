@@ -1,28 +1,136 @@
 <h1 align="center">Hi 👋, I'm Sahandi Lakshani</h1>
-<h3 align="center">Computer Engineering Undergraduate | University of Peradeniya</h3>
 
-- 🔭 I’m currently working on [TourismHub LK – Hotel Management System](https://github.com/cepdnaclk/e23-co2060-Hotel-Management-System)
+<h3 align="center">
+Computer Engineering Undergraduate | University of Peradeniya
+</h3>
 
-- 🌱 I’m currently learning **React, Node.js, Express.js, MySQL, AI/ML and Cybersecurity**
-
-- 👨‍💻 All of my projects are available at [https://thecn.com/RL816](https://thecn.com/RL816)
-
-- 💬 Ask me about **React, Node.js, MySQL, Database Design, Web Development**
-
-- 📫 How to reach me **https://www.linkedin.com/in/sahandilakshani/**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sahandilakshani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahandilakshani" height="30" width="40" /></a>
-<a href="https://kaggle.com/rmkslakshani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rmkslakshani" height="30" width="40" /></a>
-<a href="https://fb.com/sahandirathnayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sahandirathnayaka" height="30" width="40" /></a>
+<p align="center">
+Interested in Embedded Systems, IoT, Electronics, Software Development and Intelligent Systems
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahandi318&show_icons=true&locale=en&layout=compact" alt="sahandi318" /></p>
+## 👩‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahandi318&show_icons=true&locale=en" alt="sahandi318" /></p>
+- 🎓 Computer Engineering Undergraduate at the **University of Peradeniya**
+- 🔧 Interested in **Embedded Systems, Electronics, IoT and Hardware–Software Integration**
+- 💻 Experienced with **C, C++, Python, JavaScript, React, Node.js and MySQL**
+- 🗄️ Interested in **Database Systems and Full-Stack Development**
+- 🤖 Currently exploring **AI/ML and Cybersecurity**
+- 🌱 Continuously improving my engineering and software development skills
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/sahandilakshani/)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahandi318&" alt="sahandi318" /></p>
+---
+
+## 🚀 Featured Projects
+
+### 🔋 Smart Battery Monitoring System
+ESP32-based battery monitoring and protection system integrating voltage, current and temperature sensing, relay control, Wi-Fi communication and IoT monitoring.
+
+**Technologies:** ESP32, C++, INA219, DS18B20, I2C, Wi-Fi, IoT
+
+---
+
+### 🧬 Forensic Medicine Department Management System
+
+Full-stack database management system developed as a four-member team project for the CO2050 Database Systems course.
+
+The system includes role-based dashboards, case management, forensic workflows, search, report generation and database integration.
+
+**My Role:** Web / Application Developer – UI / Front-End  
+**Individual Contribution:** 25%
+
+**Technologies:** React, Node.js, Express.js, MySQL, JavaScript
+
+🔗 [View Project Repository](https://github.com/sahandi318/forensic-medicine-department-management-system)
+
+---
+
+### 🏨 TourismHub LK – Hotel Management System
+
+Currently contributing to a web-based hotel management system as part of an academic software engineering project.
+
+**Technologies:** Web Development, Database Systems, Full-Stack Development
+
+🔗 [View Project Repository](https://github.com/cepdnaclk/e23-co2060-Hotel-Management-System)
+
+---
+
+## 🛠️ Technical Skills
+
+### Embedded Systems & Hardware
+
+<p>
+<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/I2C-Embedded-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sensors-Hardware-orange?style=for-the-badge"/>
+</p>
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+</p>
+
+### Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+Additional tools: **MATLAB, MySQL Workbench, PSCAD**
+
+---
+
+## 📚 Currently Learning
+
+- C++ and Competitive Programming
+- Embedded Systems Development
+- AI / Machine Learning
+- Cybersecurity
+- Full-Stack Web Development
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/sahandilakshani">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+alt="LinkedIn" height="30" width="40"/>
+</a>
+
+<a href="https://kaggle.com/rmkslakshani">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
+alt="Kaggle" height="30" width="40"/>
+</a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahandi318&layout=compact&theme=github_dark" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sahandi318&show_icons=true&theme=github_dark" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=sahandi318&theme=github-dark-blue" height="170"/>
+</p>
