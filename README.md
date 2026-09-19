@@ -22,15 +22,6 @@ Interested in Embedded Systems, IoT, Electronics, Software Development and Intel
 
 ## 🛠️ Technical Skills
 
-### Embedded Systems & Hardware
-
-<p>
-<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/I2C-Embedded-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Sensors-Hardware-orange?style=for-the-badge"/>
-</p>
-
 ### Programming Languages
 
 <p>
@@ -54,8 +45,6 @@ Interested in Embedded Systems, IoT, Electronics, Software Development and Intel
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
-
-Additional tools: **MATLAB, MySQL Workbench, PSCAD**
 
 ---
 
